@@ -1,0 +1,1 @@
+arm-linux-gnueabi-gcc  -Wall -O2 -Os -D_REENTRANT -lm -lpthread   CMakeFiles/xsrobot.dir/src/app/main.c.o  -o bin/xsrobot -rdynamic ../lib/libsqlite3.so ../lib/libexpat.so ../lib/liblog4c.so src/modules/log4c/liblog.a src/modules/drvt/libdrvt.a src/modules/video/libcapture.a -Wl,-rpath,/home/strong/source/xs-robot/lib 

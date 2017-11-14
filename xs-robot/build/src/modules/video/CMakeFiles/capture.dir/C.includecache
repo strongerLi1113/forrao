@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/strong/source/xs-robot/src/modules/video/capture.c
+capture.h
+/home/strong/source/xs-robot/src/modules/video/capture.h
+
+/home/strong/source/xs-robot/src/modules/video/capture.h
+errno.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+sys/ioctl.h
+-
+unistd.h
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+asm/types.h
+-
+linux/videodev2.h
+-
+sys/mman.h
+-
+string.h
+-
+malloc.h
+-
+

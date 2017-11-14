@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrvt.a  CMakeFiles/drvt.dir/codec.c.o CMakeFiles/drvt.dir/crc8.c.o CMakeFiles/drvt.dir/cssl.c.o CMakeFiles/drvt.dir/drvt.c.o CMakeFiles/drvt.dir/ISLink.c.o CMakeFiles/drvt.dir/ISLinkSp.c.o
+/usr/bin/ranlib libdrvt.a
